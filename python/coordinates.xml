@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <A>
+    <index>One</index>
+    <X>1.0</X>
+    <Y>3.0</Y>
+    <Z>5.0</Z>
+  </A>
+  <A>
+    <index>Two</index>
+    <X>1.5</X>
+    <Y>3.5</Y>
+    <Z>5.5</Z>
+  </A>
+  <A>
+    <index>Three</index>
+    <X>2.0</X>
+    <Y>4.0</Y>
+    <Z>6.0</Z>
+  </A>
+</data>
